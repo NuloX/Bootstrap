@@ -97,3 +97,38 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
   }
+
+  .adoptaPerritos{
+    /* background-color: burlywood; */
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .adoptaPerritos img{
+    height: 80px;
+    width: 100px;
+  }
+
+  .cards1{
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .adoptaGatitos{
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .adoptaGatitos img{
+    height: 80px;
+    width: 100px;
+  }
